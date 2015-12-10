@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Data.SqlServer\Test\bin\Release\Test.exe
+C:\Users\Administrator\Desktop\Data.SqlServer\Test\bin\Release\Test.pdb
+C:\Users\Administrator\Desktop\Data.SqlServer\Test\bin\Release\Data.SqlServer.dll
+C:\Users\Administrator\Desktop\Data.SqlServer\Test\bin\Release\Data.SqlServer.pdb
+C:\Users\Administrator\Desktop\Data.SqlServer\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Data.SqlServer\Test\obj\Release\Test.exe
+C:\Users\Administrator\Desktop\Data.SqlServer\Test\obj\Release\Test.pdb

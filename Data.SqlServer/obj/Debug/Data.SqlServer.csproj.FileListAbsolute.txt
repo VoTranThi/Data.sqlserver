@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\obj\Debug\Data.SqlServer.DataResources.resources
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\obj\Debug\Data.SqlServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\bin\Debug\Data.SqlServer.dll
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\bin\Debug\Data.SqlServer.pdb
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\obj\Debug\Data.SqlServer.dll
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\obj\Debug\Data.SqlServer.pdb
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\obj\Debug\Data.SqlServer.CommonResources.resources
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\obj\Debug\Data.SqlServer.csprojResolveAssemblyReference.cache

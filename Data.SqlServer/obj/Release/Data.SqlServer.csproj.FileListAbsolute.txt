@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\bin\Release\Data.SqlServer.dll
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\bin\Release\Data.SqlServer.pdb
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\obj\Release\Data.SqlServer.CommonResources.resources
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\obj\Release\Data.SqlServer.DataResources.resources
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\obj\Release\Data.SqlServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\obj\Release\Data.SqlServer.dll
+C:\Users\Administrator\Desktop\Data.SqlServer\Data.SqlServer\obj\Release\Data.SqlServer.pdb
